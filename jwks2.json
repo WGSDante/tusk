@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "n": "xXTP7UnnkWGUSjqgOKM6KIcFgEFaOZHfTSQbv6pZyBJgVbTUBhRAj-B0PiTSx33NgFmSP3vC8bpwbTCliSfeyldgB_vLY-QVCBd44dCVy419eVD4HPG4f5Zp5i2Gd7B1rV48o8B0HHEwzzcuADb7XeyCMb7tLhEy-UAWNWkYdNiGSRf8Obnm0zV5Ze-gnLFapjLOfEvsRodHgJGEquG8bAEhdWVLxiv7iP86LNOI7aEYR67DTxVBVwus5787qevPUCgqEutLNdn_EW5wYu31GPEYUi7-6-1lFpimb3MCnLTWwdiCAg-DFsgIZRg2ByOzPglr7jUL_XZa0YTe8WVjSw",
+      "kid": "1yKAj630jcgjcIGpUaPyfMJ7z6e_6iOCS4XpiK_I2Lc",
+      "alg": "RS384",
+      "use": "sig"
+    }
+  ]
+}
